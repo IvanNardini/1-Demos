@@ -1,2 +1,2 @@
 # 1-Demos
-A repository which contains the end to end demos 
+A repository which contains end-to-end demos 
